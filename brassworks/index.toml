@@ -51,6 +51,11 @@ hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
 metafile = true
@@ -76,8 +81,18 @@ hash = "44634200be079994523f61e1a4b2878f4d2e1b59d52378391aa81192b1d15bf1"
 metafile = true
 
 [[files]]
+file = "mods/journey-pac.pw.toml"
+hash = "c1a7d513c59eeb49bd2f377236357a280cc2e1d206c3eb3985a3a4615ed97aec"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "311006c1e834be728b2096f89b813a85e3ad9b214086ba79de72c012bf4c3a65"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "46ef13e6d8e8a8dbd4cee44b843decb8810924e1c9017ec146160f9611344808"
 metafile = true
 
 [[files]]
@@ -101,6 +116,16 @@ hash = "508d2492fcf63775ccf5bb96d6ac68ef880c7bb7fe9e31944927c00143947ffa"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "39261ba5716225d4fcfe98701080fe78ad1832419f620a3789390a5998e918bf"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "efa8d53b3a7144e56b9823c54249fc353828f532808a73e65967d84183874782"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
@@ -118,6 +143,36 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "fb40bab0573c82735f83e4dba72dc12f6f79933b997e1e19bc8e6345d4959842"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "4bb587c09a53f82dec620482b3badeee9d6e865902efcfc39139f906cc0b108f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "634130ab233121c290fdb2567afd3939af6d98760c11f14db0426b64b8955894"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "4c2830674a08ec9f10af13e4d259aa60158bd306a3996d935e678281ec0cb5fd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "ee63a5958eb1e0238257e2064d917bdaf8e528a47904bdfbe04a5758a1537e9f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "ec55d198f4bf6e8252bc31e014a8a84b567fad8667c30b0d9a93ba7039bf78ca"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
 metafile = true
 
 [[files]]
