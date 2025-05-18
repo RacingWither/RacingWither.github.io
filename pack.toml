@@ -1,0 +1,13 @@
+name = "Brassworks"
+author = "RacingWither and night_light7665"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "44125fc65375cc22eb03f2f9db61fc7100103a4321cbeaddf18658a0ac6d2d90"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.172"
