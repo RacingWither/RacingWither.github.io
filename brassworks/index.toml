@@ -7,84 +7,80 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "88c81cadf6b02adfe3800604fd49bcb3789045cbcde29b6c82d7231d02095a6ee"
+hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "fb9c02353c2ebc73c39cf3e857bbbeb9532ab436a3b4691b76f59b971b9d4548"
+hash = "370e3f35cfad5a6bc49f35f09767c3791fdb0c1ff789922f1bbb8d77411644dd"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "c2d6c6b33e13fc469fd3f65e13e5c28ed9fbd9993783c43290cecc455da76c3a"
+hash = "7bebff0ec65bcef0fc44358719d3b9ccc6e0d658ea49c07b24c3d9416e4576f2"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "93794a68c7b365ebe9d5f672a041a1e99b6d8157e79666a3cfaeec6d790e352a"
+hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "960983bddcb69dfddb8053e9c9205c55518f806bb0c84d8a7cca2acce977f7e0"
+hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ff2831c124ee42520acf1468ed682021a462336fb07fcc1daec6c3cc5f9117cc"
+hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
 metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
-hash = "86a9907f38e631cf0b5a1b9f66ddde35fcad3b1eb770550a7de9f52ccf6de6a5"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9d5759b8b7aaab1d1f4d0e03237a639d1f3cc22706de65e113caf7a20eba864d"
+hash = "652900870d343dda5683456934ca76bf176ea54da73d9883d8a13c9b3cae2fac"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "648dccdc0f056fd44095f398653311e34c4bd675d6a27f50bd9796c6415d1c40"
+hash = "44634200be079994523f61e1a4b2878f4d2e1b59d52378391aa81192b1d15bf1"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "08c5c3e2179112120ff56631f83d99151d606246e5bb1262bec503dbd2d16d05"
+hash = "311006c1e834be728b2096f89b813a85e3ad9b214086ba79de72c012bf4c3a65"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "02e7081f4174098138496b3b57eac789d17132c1976ecd23a3c324740277a9d5"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
 file = "mods/mixed-litter.pw.toml"
-hash = "8ce344e08d5e48b4f0a7da3e69b084659d7b5dd90334e93842b103803e543117"
+hash = "c01c1c2b7d010719aea0e998b3a5bc4e3961aad017439550e594140cd1bc0e33"
 metafile = true
 
 [[files]]
 file = "mods/no-mans-delight.pw.toml"
-hash = "f570b1125c693ec7001fa8719ad809bc286628c45b627b9b8d00f038cff4d4f1"
+hash = "b1e75fe1d995f4207f42cf0d13c5bef437b5502f8e6400763e3c370f04c6ed6c"
 metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "adba84009b7b962f4e22754a4d74bbbe390042443d16cbccaebec1388927640d"
+hash = "508d2492fcf63775ccf5bb96d6ac68ef880c7bb7fe9e31944927c00143947ffa"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "3f5fbd50ca3ca8175805dd3dac7d207aba4f280765fbfbda39caf4cd265c2a95"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c04ad2e883943640d5bc8e519c0b90e6cdd11e5b5a6d095b5838c477021771a0"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
-
-[[files]]
-file = "mods/test"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
