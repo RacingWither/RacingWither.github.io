@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "67ff1f742332cd097337793da88aec29a58bf6652d1e6f4067ea578311af301e"
+hash = "36a16d423e6d5571d71a647c7d8a25b49a75a23c5b494bf363a12da3127a2f96"
 metafile = true
 
 [[files]]
