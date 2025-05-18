@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "00ccd2d6d07bcf0cfc32bf8bba10f81c9966f067267ef5100e47c723b64b5d12"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "36a16d423e6d5571d71a647c7d8a25b49a75a23c5b494bf363a12da3127a2f96"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
 metafile = true
 
 [[files]]
