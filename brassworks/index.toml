@@ -94,3 +94,8 @@ metafile = true
 file = "mods/sophisticated-core.pw.toml"
 hash = "fb40bab0573c82735f83e4dba72dc12f6f79933b997e1e19bc8e6345d4959842"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
