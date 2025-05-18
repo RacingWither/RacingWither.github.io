@@ -11,6 +11,11 @@ hash = "36a16d423e6d5571d71a647c7d8a25b49a75a23c5b494bf363a12da3127a2f96"
 metafile = true
 
 [[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
