@@ -91,11 +91,6 @@ hash = "44634200be079994523f61e1a4b2878f4d2e1b59d52378391aa81192b1d15bf1"
 metafile = true
 
 [[files]]
-file = "mods/journey-pac.pw.toml"
-hash = "c1a7d513c59eeb49bd2f377236357a280cc2e1d206c3eb3985a3a4615ed97aec"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "311006c1e834be728b2096f89b813a85e3ad9b214086ba79de72c012bf4c3a65"
 metafile = true
@@ -128,11 +123,6 @@ metafile = true
 [[files]]
 file = "mods/no-mans-land.pw.toml"
 hash = "508d2492fcf63775ccf5bb96d6ac68ef880c7bb7fe9e31944927c00143947ffa"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "39261ba5716225d4fcfe98701080fe78ad1832419f620a3789390a5998e918bf"
 metafile = true
 
 [[files]]
