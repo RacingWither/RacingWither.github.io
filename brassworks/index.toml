@@ -36,6 +36,11 @@ hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
 
 [[files]]
+file = "mods/deimos.pw.toml"
+hash = "e1d124bdf0948a96ff53cbdcfdaed5d5c2be8bd3b889ae4db0326e23c8e27700"
+metafile = true
+
+[[files]]
 file = "mods/essential.pw.toml"
 hash = "370e3f35cfad5a6bc49f35f09767c3791fdb0c1ff789922f1bbb8d77411644dd"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/mixed-litter.pw.toml"
 hash = "c01c1c2b7d010719aea0e998b3a5bc4e3961aad017439550e594140cd1bc0e33"
+metafile = true
+
+[[files]]
+file = "mods/more-music-discs.pw.toml"
+hash = "97c6f557317561ec4666df0fbbe6043832368cab6ee2de346e48b7579c9a170e"
 metafile = true
 
 [[files]]
