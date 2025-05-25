@@ -156,11 +156,6 @@ hash = "508d2492fcf63775ccf5bb96d6ac68ef880c7bb7fe9e31944927c00143947ffa"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "87fb28047d648087f2fe4891ddf9d3c394b9c5c29eaf4f3970fb7c32520e6fcf"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
