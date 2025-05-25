@@ -161,6 +161,11 @@ hash = "87fb28047d648087f2fe4891ddf9d3c394b9c5c29eaf4f3970fb7c32520e6fcf"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
+metafile = true
+
+[[files]]
 file = "mods/ribbits.pw.toml"
 hash = "efa8d53b3a7144e56b9823c54249fc353828f532808a73e65967d84183874782"
 metafile = true
