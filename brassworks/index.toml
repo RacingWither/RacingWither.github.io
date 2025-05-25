@@ -86,6 +86,11 @@ hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "8e5da360e375437a904021af1e7eda56fa14f1d68af363f3b6217763c63d3544"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
 metafile = true
@@ -156,6 +161,11 @@ hash = "508d2492fcf63775ccf5bb96d6ac68ef880c7bb7fe9e31944927c00143947ffa"
 metafile = true
 
 [[files]]
+file = "mods/oracle-index.pw.toml"
+hash = "f73bf479f0ab471c8afcf74141f302ec649431c6f39cb25b0e3a2c1ead8363b5"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
@@ -168,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "ab72f21ed8617051c2216f711b6976b099a33366592d800e4b42d70f0d50f3b4"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "5e2f69be28f9240fbe9824fc8d0d302dac475c5aafc2fd444f32bec9a5d5fd8f"
 metafile = true
 
 [[files]]
@@ -198,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
 hash = "c2cb28859e7bcc0eb4ce59c5792f90fa5f8ab8865f5867ba26a5a345ec60b498"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "902c397d5dfc69b497681ba71aa5b8a8a85479b1ccf25157867e4803c16dd65b"
 metafile = true
 
 [[files]]
