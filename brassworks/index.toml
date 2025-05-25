@@ -11,18 +11,23 @@ hash = "00ccd2d6d07bcf0cfc32bf8bba10f81c9966f067267ef5100e47c723b64b5d12"
 metafile = true
 
 [[files]]
-file = "mods/ars-nouveau.pw.toml"
-hash = "c620b91abf14510baca9164bdd1ab39b8f6390c080c7a8f67e66b7fa25b515b5"
-metafile = true
-
-[[files]]
 file = "mods/biolith.pw.toml"
 hash = "36a16d423e6d5571d71a647c7d8a25b49a75a23c5b494bf363a12da3127a2f96"
 metafile = true
 
 [[files]]
+file = "mods/camphor.pw.toml"
+hash = "d0322f9aa5140965976ffe95bf035197eb413aaa2eccb516352f2241acbbe79b"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
 metafile = true
 
 [[files]]
@@ -61,11 +66,6 @@ hash = "e1d124bdf0948a96ff53cbdcfdaed5d5c2be8bd3b889ae4db0326e23c8e27700"
 metafile = true
 
 [[files]]
-file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
-hash = "e051e7039ab024175b429f75bc715a459120bccbdd3c5c5f68c6e44b69b8fe60"
-metafile = true
-
-[[files]]
 file = "mods/essential.pw.toml"
 hash = "370e3f35cfad5a6bc49f35f09767c3791fdb0c1ff789922f1bbb8d77411644dd"
 metafile = true
@@ -81,6 +81,11 @@ hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
 metafile = true
@@ -91,8 +96,18 @@ hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "80b8f5ac81313635f3829c0bfc1be0c82190cd5eeb2bd0f74039548f5d300ecc"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "5d7b8339ae3f6195887c1b81d1716fa98759945a114a6dbaaff096a6f385dfaf"
 metafile = true
 
 [[files]]
@@ -113,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "311006c1e834be728b2096f89b813a85e3ad9b214086ba79de72c012bf4c3a65"
-metafile = true
-
-[[files]]
-file = "mods/lightmans-currency.pw.toml"
-hash = "46ef13e6d8e8a8dbd4cee44b843decb8810924e1c9017ec146160f9611344808"
 metafile = true
 
 [[files]]
@@ -153,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "efa8d53b3a7144e56b9823c54249fc353828f532808a73e65967d84183874782"
+metafile = true
+
+[[files]]
+file = "mods/simple-planes.pw.toml"
+hash = "ab72f21ed8617051c2216f711b6976b099a33366592d800e4b42d70f0d50f3b4"
 metafile = true
 
 [[files]]
