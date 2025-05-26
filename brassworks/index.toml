@@ -11,6 +11,16 @@ hash = "00ccd2d6d07bcf0cfc32bf8bba10f81c9966f067267ef5100e47c723b64b5d12"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "3b25384acb368599971dd72d3fa48f5449552e6f732d5c25caee154926a447b1"
+metafile = true
+
+[[files]]
+file = "mods/better-tridents.pw.toml"
+hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "36a16d423e6d5571d71a647c7d8a25b49a75a23c5b494bf363a12da3127a2f96"
 metafile = true
@@ -18,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/camphor.pw.toml"
 hash = "d0322f9aa5140965976ffe95bf035197eb413aaa2eccb516352f2241acbbe79b"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
@@ -63,6 +78,21 @@ metafile = true
 [[files]]
 file = "mods/deimos.pw.toml"
 hash = "e1d124bdf0948a96ff53cbdcfdaed5d5c2be8bd3b889ae4db0326e23c8e27700"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "07ea5950240bde3452c93be59647a662dd790692e5eeb5d3c4266910781d6d6d"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
@@ -151,6 +181,11 @@ hash = "c01c1c2b7d010719aea0e998b3a5bc4e3961aad017439550e594140cd1bc0e33"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
+metafile = true
+
+[[files]]
 file = "mods/more-music-discs.pw.toml"
 hash = "97c6f557317561ec4666df0fbbe6043832368cab6ee2de346e48b7579c9a170e"
 metafile = true
@@ -181,13 +216,28 @@ hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
+metafile = true
+
+[[files]]
 file = "mods/ribbits.pw.toml"
 hash = "efa8d53b3a7144e56b9823c54249fc353828f532808a73e65967d84183874782"
 metafile = true
 
 [[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "5ab408abaa1fb11375d45d4756481e3fa05dc154a186314f260df8d0e62d6d99"
+metafile = true
+
+[[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "ab72f21ed8617051c2216f711b6976b099a33366592d800e4b42d70f0d50f3b4"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
 metafile = true
 
 [[files]]
@@ -213,6 +263,16 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "fb40bab0573c82735f83e4dba72dc12f6f79933b997e1e19bc8e6345d4959842"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "3d003b30318f48a36bb710e8cde44d9287018d6f9c9a654c4f91e8a34b8f76b6"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "90956e69d35ea7658d5a674b68662f51b09ba11596877170e5c01b2aaa3dcd49"
 metafile = true
 
 [[files]]
