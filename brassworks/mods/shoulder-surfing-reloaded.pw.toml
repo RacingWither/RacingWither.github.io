@@ -11,3 +11,8 @@ hash = "8bc1eed1984e0a497eeef051d3b7b2ab05f080bb5504afbfcc69aa40e41f66447bfb711e
 [update.modrinth]
 mod-id = "kepjj2sy"
 version = "5N99B1NM"
+
+[option]
+optional = true
+default = false
+description = "Adds a fourth camera option which allows for an over-the-shoulder viewpoint. Occasionally crashes upon game launch"
