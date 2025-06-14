@@ -1,0 +1,9 @@
+name = "Unsup"
+filename = "unsup.ini"
+side = "client"
+
+[download]
+url = "https://racingwither.github.io/brassworks/unsup.ini"
+
+hash-format = "sha256"
+hash = "3ee125f208dce8cc3b3afd1f368b777e46d165125e95ed4d504f341fd7f7dd4a"
