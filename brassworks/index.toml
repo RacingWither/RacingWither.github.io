@@ -361,10 +361,6 @@ hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
 
 [[files]]
-file = "unsup.ini"
-hash = "3ee125f208dce8cc3b3afd1f368b777e46d165125e95ed4d504f341fd7f7dd4a"
-
-[[files]]
 file = "unsup.pw.toml"
-hash = "add235f68f2056f0d53f2f247f12bc79a7ec4e3e3c6485d330e009ec57549fb4"
+hash = "8fb6844beda477945133edfc9298e83ad02f43f01fe2bfb0308c9be145f3e947"
 metafile = true
