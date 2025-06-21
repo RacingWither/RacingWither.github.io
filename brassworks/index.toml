@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/oracle-index.pw.toml"
-hash = "f73bf479f0ab471c8afcf74141f302ec649431c6f39cb25b0e3a2c1ead8363b5"
+hash = "c95bc7f777a7a00bef2ff263b3aba44cbe6205c0bbdcd8f7a094eb8d54d3435a"
 metafile = true
 
 [[files]]
@@ -394,6 +394,10 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "3ee125f208dce8cc3b3afd1f368b777e46d165125e95ed4d504f341fd7f7dd4a"
 
 [[files]]
 file = "unsup.pw.toml"
