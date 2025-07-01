@@ -1,0 +1,13 @@
+name = "Lava Chicken Disc"
+filename = "lava_chicken_music_disc-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5dc5e14b43c802b2b755169d9a944e5a223c3fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6704483
+project-id = 1295631
