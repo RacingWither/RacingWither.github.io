@@ -236,11 +236,6 @@ hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
 
 [[files]]
-file = "mods/lava-chicken-disc.pw.toml"
-hash = "afa217f9cefa583c406b865016dfaac8bd650ffec0e42ec77906c247b34a5b9c"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
@@ -293,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
+metafile = true
+
+[[files]]
+file = "mods/packwiz-server-updater.pw.toml"
+hash = "52e759f5dd318b47cf4eb094278a89d6a3d9b611e0b80f11c79a3cafd5e07bed"
 metafile = true
 
 [[files]]
