@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "fe314943675dbe95eca9c16139b049b5e6f94f1e9ac1c78c04a16024bba34f89"
+hash = "92b932cdce55104c465c53bb8d57667e053135b51cdb11dae2099754a158d3f8"
 metafile = true
 
 [[files]]
