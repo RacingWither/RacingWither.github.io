@@ -106,6 +106,11 @@ hash = "92b932cdce55104c465c53bb8d57667e053135b51cdb11dae2099754a158d3f8"
 metafile = true
 
 [[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "16a779fbdf47b154eb5ee30cc8ab41df3d3fe18308337824d66bd036c2c24014"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
 metafile = true
@@ -261,6 +266,11 @@ hash = "04df77c921a891de3a2cfb8f0f9a6f61a4aa91640b90405a12d7bed93f8eead3"
 metafile = true
 
 [[files]]
+file = "mods/mimi.pw.toml"
+hash = "5a3cb15ece27aaca83bc167468bbad97b3f964b8889e3c067e244decd126b7a2"
+metafile = true
+
+[[files]]
 file = "mods/mixed-litter.pw.toml"
 hash = "c01c1c2b7d010719aea0e998b3a5bc4e3961aad017439550e594140cd1bc0e33"
 metafile = true
@@ -378,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "90956e69d35ea7658d5a674b68662f51b09ba11596877170e5c01b2aaa3dcd49"
+metafile = true
+
+[[files]]
+file = "mods/swashbucklers.pw.toml"
+hash = "831418ed04a1bf560def204c8e067d9a7b5b08f86358e17ed2322530fba53411"
 metafile = true
 
 [[files]]
