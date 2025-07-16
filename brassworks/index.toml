@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-sound-of-steam.pw.toml"
-hash = "16a779fbdf47b154eb5ee30cc8ab41df3d3fe18308337824d66bd036c2c24014"
+hash = "51e59d0e689bd663de7b3ca38c53aea8664db9707f0814ac0f77d35584e08244"
 metafile = true
 
 [[files]]
