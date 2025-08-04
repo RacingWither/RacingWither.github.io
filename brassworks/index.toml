@@ -1,6 +1,122 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/Sprite-0001.aseprite"
+hash = "b8fb08881d560596fc42a02c2d6a5b5f20df3f0f3d6c69aad3a95c842ba2ffc0"
+
+[[files]]
+file = "config/fancymenu/assets/Sprite-0002.aseprite"
+hash = "f8837924a3758d572010f907081a85ba18375137bba2559ca2261131a4a19a9f"
+
+[[files]]
+file = "config/fancymenu/assets/brass_casing.png"
+hash = "86707b8bb71f8a345f8c030a52263cee1d072308cc16768c33841c2fc83bfbd4"
+
+[[files]]
+file = "config/fancymenu/assets/brassworksbutton.png"
+hash = "bd83c24eea0882c19e996a8a32b2cee319c0d8a74b4becd9720750cd5a7fbc92"
+
+[[files]]
+file = "config/fancymenu/assets/brassworksbuttonhover.png"
+hash = "bc743d4716bf69dbf6b3717a8a9b6c3bbd2e630c34c2ae993cbb3596ca974388"
+
+[[files]]
+file = "config/fancymenu/assets/minecraft_title.png"
+hash = "4b3355e25b861a4db9cfe0dfe1ef94384b0eef22c435779d78e4407171228344"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "efdde2d1e9ec7bf7df93630ab3b7d8fbb7eb3f552323d05195e58b9a81bb5d9a"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "0cf4555b7cc91e3ea372fd7ec8cb88891efe7bb606d71ce31ffa4143e2f66a8d"
+
+[[files]]
+file = "config/fancymenu/customization/brassworks_titlescreen.txt"
+hash = "0019f5166529249700646c149c72a8d62779cdca62fbb623bfe6cba93932116a"
+
+[[files]]
+file = "config/fancymenu/customization/music.txt"
+hash = "c0dfb2d9cba5605a6d1eacfc1f25152e1ae0d740e0d235788d48ad7a259e0dff"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "e5adc03d5e3487079ba1928daf1af26f6ff01c777d34c3b25d74ac22aea5964c"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "2798e3c986cea6331b4fbbaf2ac96d375c0e8117225360da7e7d0e8097215809"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/images/2024-11-09_14.50.53.png"
+hash = "e952d7de2f9835ffa75180c8333de796b2c4578f7bafcbc67690be88ed6d6d42"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/images/2024-11-10_19.31.01.png"
+hash = "64df02ce37623ba898f8def1631f1196dd8bc105cf83c13d667382cd5223ad14"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/images/2024-11-10_19.43.26.png"
+hash = "3f694684027c3e65cf396fd44935e10dfe77ef9587151fe8468c613a66237b6c"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/images/2024-11-11_21.16.55.png"
+hash = "fa67b4c9367eb6920b28d4162abe0ef77c3adf5b6ff54588f3056bc0c7fcd376"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/images/2024-11-11_21.26.24.png"
+hash = "e82cd959aeef433f87b6617eee3ae54998c1d6f5e58e889fa81106c7f9770709"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/images/2024-11-13_17.30.42.png"
+hash = "9980e09e7b2d285e60a3d50739ccf4be9737e3578b4a5c99dd7c0936381f4af1"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/images/2024-12-10_16.58.51.png"
+hash = "ed93c45e99b0a9da2818899ccfec0aa677290c2aba767e43d3c3d1725978fa99"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/images/2025-02-02_17.03.16.png"
+hash = "101f425efae7ff65e93ce6d79bd128e9b61bc2c8153bc921a44a7990d6624cd1"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/images/2025-02-03_19.30.54.png"
+hash = "bc0fff3bce1be692ef3513db9f53e7166de46fe3ca2e5a0b592454c77350836e"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/images/2025-02-03_19.30.59.png"
+hash = "085d44e49cecdb2dcd6cafd0557e81be1a8a29080d033e63f302a5aaa817586f"
+
+[[files]]
+file = "config/fancymenu/slideshows/screenshots/properties.txt"
+hash = "db2002190d24f538ee23f31b9ccd5ab0fadd328fe7e6dc0897c7924854018f03"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "3c801cb8c7bbd01b72e96721d351087a3b7a219dae43e8c5b352e567aac63567"
 metafile = true
@@ -342,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "73f53293eb435e2184a8139a3af53afbf6c327f67d6be51c9cb28f1c89b6e478"
+hash = "fa233b721a3fc32a14093eecf3a37b34933747d745d4c9789ad9e341390f06a8"
 metafile = true
 
 [[files]]
