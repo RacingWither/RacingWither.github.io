@@ -142,6 +142,11 @@ hash = "00ccd2d6d07bcf0cfc32bf8bba10f81c9966f067267ef5100e47c723b64b5d12"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "65eb3254419ce3c5ef9e51950833c9431a23fc96216b09081187e695326d522e"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "3b25384acb368599971dd72d3fa48f5449552e6f732d5c25caee154926a447b1"
 metafile = true
@@ -189,6 +194,16 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "4dd0153bfd4279bf7264ec1384bf60c8e1777bfc13a799114c4cd207fd32691c"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "79e19349dcdea3b4e2425974f58afcac5103f65f8e4abd7cecacc1bd37f78cb0"
 metafile = true
 
 [[files]]
@@ -253,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -544,11 +559,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "b18a467bf1a8c1c8f0df965d1f5f6f7605bcad83e9b631b26257fb5c8e497b0a"
-metafile = true
-
-[[files]]
-file = "mods/yigd.pw.toml"
-hash = "ef80891ed72e87e1fd2fda3bcee9e8a50e5c4cf836283ae8ef4c81e7fd213fd0"
 metafile = true
 
 [[files]]
