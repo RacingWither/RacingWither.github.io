@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "5d7b8339ae3f6195887c1b81d1716fa98759945a114a6dbaaff096a6f385dfaf"
+hash = "cf1bb72bbbb1ad55af745b6ccb8baf8ff5d6914dc11e41e4752212ca3eb17440"
 metafile = true
 
 [[files]]
