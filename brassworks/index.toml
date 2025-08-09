@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "3ee125f208dce8cc3b3afd1f368b777e46d165125e95ed4d504f341fd7f7dd4a"
+hash = "15d8544dcf4f9fda1e0cf0072da8a7041983f82f4dcf01e533e9997c6d68b4b8"
 
 [[files]]
 file = "unsup.pw.toml"
