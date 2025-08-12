@@ -11,3 +11,8 @@ hash = "17386a998e575f279238e997c05f0596478d819cc382b3b35466c1b7cc67954479d08b3c
 [update.modrinth]
 mod-id = "4das1Fjq"
 version = "hQkBepoB"
+
+[option]
+optional = true
+default = false
+description = "ReplayMod but far more feature-rich and intuitive. May noticeably increase download time."

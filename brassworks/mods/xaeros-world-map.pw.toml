@@ -14,5 +14,5 @@ version = "Lt2vbZZU"
 
 [option]
 optional = true
-default = false
+default = true
 description = "Adds an alternative to JourneyMap's full-screen map. Depends on Xaero's Minimap for some features."
