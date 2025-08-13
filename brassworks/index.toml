@@ -322,11 +322,6 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
-file = "mods/flashback.pw.toml"
-hash = "ee9c0c4907ce5e1942fb66f2a6c57446b83a613f9c4ed11f627fa5a1d1c2f68a"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
 metafile = true
