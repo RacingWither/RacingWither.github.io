@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "dbffc7b4965a1aefc9dfa563d43537dffd3c992a95650d6c45ad4069c1100906"
+hash = "ee9c0c4907ce5e1942fb66f2a6c57446b83a613f9c4ed11f627fa5a1d1c2f68a"
 metafile = true
 
 [[files]]
@@ -394,11 +394,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
 
 [[files]]
@@ -563,12 +558,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3afd64de486629481870da4a384953c263bbe6ba1fd1e359582c247380b0363d"
+hash = "12c4711cae4c193b08665a155885c180b8e103150fd50b4837554e8563ca6528"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b18a467bf1a8c1c8f0df965d1f5f6f7605bcad83e9b631b26257fb5c8e497b0a"
+hash = "fc799d1ae211db1cb410ba1a33022946543d8d1127646fb972a4d61aea9851ba"
 metafile = true
 
 [[files]]
